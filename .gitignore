@@ -1,0 +1,18 @@
+# Godot editor cache (rebuilt on open)
+game/.godot/
+
+# Windows build (attached to GitHub Releases instead)
+build/
+
+# Generated test output
+game/tests/shots/
+game/tests/audio_preview/
+
+# Blender backups
+*.blend1
+*.blend2
+
+# OS clutter
+Thumbs.db
+desktop.ini
+.DS_Store
